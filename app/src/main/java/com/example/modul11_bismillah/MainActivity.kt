@@ -41,14 +41,13 @@ import androidx.compose.ui.unit.sp
 import com.example.modul11_bismillah.ui.theme.Modul11_BismillahTheme
 
 private val sampleName = listOf(
-    "Andre",
-    "Desta",
-    "Parto",
-    "Wendy",
-    "Komeng",
-    "Raffi Ahmad",
-    "Andhika Pratama",
-    "Vincent Ryan Rompies"
+    "Ana anak Baik",
+    "Ana anak Rajin",
+    "Ana anak Indipindin",
+    "Ana tidak suka berkata kasar",
+    "Ana Sopan Santun",
+    "Ana Berhati Mulia",
+    "Ana Berperilaku Terpuji"
 )
 
 class MainActivity : ComponentActivity() {
